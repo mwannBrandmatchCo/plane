@@ -1,44 +1,4 @@
-<br /><br />
-
-<p align="center">
-<a href="https://plane.so">
-  <img src="https://plane-marketing.s3.ap-south-1.amazonaws.com/plane-readme/plane_logo_.webp" alt="Plane Logo" width="70">
-</a>
-</p>
-
-<h3 align="center"><b>Plane</b></h3>
-<p align="center"><b>Open-source project management that unlocks customer value</b></p>
-
-<p align="center">
-<a href="https://discord.com/invite/A92xrEGCge">
-<img alt="Discord online members" src="https://img.shields.io/discord/1031547764020084846?color=5865F2&label=Discord&style=for-the-badge" />
-</a>
-<img alt="Commit activity per month" src="https://img.shields.io/github/commit-activity/m/makeplane/plane?style=for-the-badge" />
-</p>
-
-<p align="center">
-    <a href="https://dub.sh/plane-website-readme"><b>Website</b></a> •
-    <a href="https://git.new/releases"><b>Releases</b></a> •
-    <a href="https://dub.sh/planepowershq"><b>Twitter</b></a> •
-    <a href="https://dub.sh/planedocs"><b>Documentation</b></a>
-</p>
-
-<p>
-    <a href="https://app.plane.so/#gh-light-mode-only" target="_blank">
-      <img
-        src="https://plane-marketing.s3.ap-south-1.amazonaws.com/plane-readme/plane_screen.webp"
-        alt="Plane Screens"
-        width="100%"
-      />
-    </a>
-    <a href="https://app.plane.so/#gh-dark-mode-only" target="_blank">
-      <img
-        src="https://plane-marketing.s3.ap-south-1.amazonaws.com/plane-readme/plane_screens_dark_mode.webp"
-        alt="Plane Screens"
-        width="100%"
-      />
-    </a>
-</p>
+<>
 
 Meet [Plane](https://dub.sh/plane-website-readme), an open-source project management tool to track issues, run ~sprints~ cycles, and manage product roadmaps without the chaos of managing the tool itself. 🧘‍♀️
 
